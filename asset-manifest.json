@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/create-nft/static/css/main.4c1ad2b0.chunk.css",
+    "main.js": "/create-nft/static/js/main.b4eff621.chunk.js",
+    "main.js.map": "/create-nft/static/js/main.b4eff621.chunk.js.map",
+    "runtime-main.js": "/create-nft/static/js/runtime-main.c2abbc35.js",
+    "runtime-main.js.map": "/create-nft/static/js/runtime-main.c2abbc35.js.map",
+    "static/js/2.3b2f0956.chunk.js": "/create-nft/static/js/2.3b2f0956.chunk.js",
+    "static/js/2.3b2f0956.chunk.js.map": "/create-nft/static/js/2.3b2f0956.chunk.js.map",
+    "index.html": "/create-nft/index.html",
+    "static/css/main.4c1ad2b0.chunk.css.map": "/create-nft/static/css/main.4c1ad2b0.chunk.css.map",
+    "static/js/2.3b2f0956.chunk.js.LICENSE.txt": "/create-nft/static/js/2.3b2f0956.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2abbc35.js",
+    "static/js/2.3b2f0956.chunk.js",
+    "static/css/main.4c1ad2b0.chunk.css",
+    "static/js/main.b4eff621.chunk.js"
+  ]
+}
