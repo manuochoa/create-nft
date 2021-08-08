@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/create-nft/static/css/main.565ff31e.chunk.css",
-    "main.js": "/create-nft/static/js/main.a267216f.chunk.js",
-    "main.js.map": "/create-nft/static/js/main.a267216f.chunk.js.map",
-    "runtime-main.js": "/create-nft/static/js/runtime-main.76a67e8a.js",
-    "runtime-main.js.map": "/create-nft/static/js/runtime-main.76a67e8a.js.map",
-    "static/js/2.35e6e182.chunk.js": "/create-nft/static/js/2.35e6e182.chunk.js",
-    "static/js/2.35e6e182.chunk.js.map": "/create-nft/static/js/2.35e6e182.chunk.js.map",
-    "static/js/3.369f4323.chunk.js": "/create-nft/static/js/3.369f4323.chunk.js",
-    "static/js/3.369f4323.chunk.js.map": "/create-nft/static/js/3.369f4323.chunk.js.map",
+    "main.css": "/create-nft/static/css/main.ab9b242d.chunk.css",
+    "main.js": "/create-nft/static/js/main.da4d717e.chunk.js",
+    "main.js.map": "/create-nft/static/js/main.da4d717e.chunk.js.map",
+    "runtime-main.js": "/create-nft/static/js/runtime-main.04e615f3.js",
+    "runtime-main.js.map": "/create-nft/static/js/runtime-main.04e615f3.js.map",
+    "static/js/2.4c2110e8.chunk.js": "/create-nft/static/js/2.4c2110e8.chunk.js",
+    "static/js/2.4c2110e8.chunk.js.map": "/create-nft/static/js/2.4c2110e8.chunk.js.map",
+    "static/js/3.a1ccc525.chunk.js": "/create-nft/static/js/3.a1ccc525.chunk.js",
+    "static/js/3.a1ccc525.chunk.js.map": "/create-nft/static/js/3.a1ccc525.chunk.js.map",
     "index.html": "/create-nft/index.html",
-    "static/css/main.565ff31e.chunk.css.map": "/create-nft/static/css/main.565ff31e.chunk.css.map",
-    "static/js/2.35e6e182.chunk.js.LICENSE.txt": "/create-nft/static/js/2.35e6e182.chunk.js.LICENSE.txt",
+    "static/css/main.ab9b242d.chunk.css.map": "/create-nft/static/css/main.ab9b242d.chunk.css.map",
+    "static/js/2.4c2110e8.chunk.js.LICENSE.txt": "/create-nft/static/js/2.4c2110e8.chunk.js.LICENSE.txt",
     "static/media/baba.0b74d374.png": "/create-nft/static/media/baba.0b74d374.png",
-    "static/media/card.scss": "/create-nft/static/media/dashboard.jpg.c30040f3.jpg",
-    "static/media/logo.6ce24c58.svg": "/create-nft/static/media/logo.6ce24c58.svg"
+    "static/media/card.scss": "/create-nft/static/media/dashboard.jpg.c30040f3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.76a67e8a.js",
-    "static/js/2.35e6e182.chunk.js",
-    "static/css/main.565ff31e.chunk.css",
-    "static/js/main.a267216f.chunk.js"
+    "static/js/runtime-main.04e615f3.js",
+    "static/js/2.4c2110e8.chunk.js",
+    "static/css/main.ab9b242d.chunk.css",
+    "static/js/main.da4d717e.chunk.js"
   ]
 }
