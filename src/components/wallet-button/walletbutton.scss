@@ -1,0 +1,76 @@
+
+.main_dashboard_new{
+    width:100%;
+   // background-color:#DEE1F3;
+}
+
+.connect_wallect{
+   float: right;
+   background-color: black!important;
+   color: #fff!important;
+   font-weight: 600!important;
+   border-radius: 25px!important;
+   border-color: #000!important;
+   padding: 10px 30px;
+   text-transform: uppercase;
+   svg{
+      font-size: 20px;
+   }
+}
+
+.purple_box {
+   background-color:#F55850 ;
+   border-radius:15px;
+   // border:2px  solid #2E1835  
+}
+
+
+.purple_boxx{
+    @extend .purple_box;
+    background-color:#F3B606 !important;
+
+}
+
+.text_clr_a{
+    
+   color:#fff;
+   font-size:26px;
+}
+
+
+.text_clr_b{
+   color:#fff;
+   font-size:12px;
+}
+
+.MuiNativeSelect-select.MuiNativeSelect-select {
+   padding-right: 100px;
+}
+
+.heqading_aa{
+   font-size:22px;
+   font-weight:800;
+}
+
+
+.bx-clr{
+    width:40px;
+    height:40px;
+    background-color:#D4524C ;
+    border-radius:50%;
+}
+
+.bx-clrr{
+    @extend.bx-clr;
+    background-color:#CDA860  ;
+
+}
+.text_acc{
+   font-size:20px;
+   font-weight:800;
+}
+
+.inputt{
+   border-radius:15px;
+   outline:none;
+}

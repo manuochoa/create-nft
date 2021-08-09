@@ -1,0 +1,116 @@
+.upload_content{
+    border-radius: 25px;
+    border: 1px dashed grey;
+    padding: 50px;
+    margin: 10px 0!important;
+    text-align: center!important;
+    p{
+        color: #000;
+        font-size: 12px!important;
+        margin-top: 20px;
+    }
+}
+.uploadbtn{
+    .MuiButton-containedPrimary{
+    color: #fff!important;
+    background-color: #E3B002!important;
+    border-radius: 25px!important;
+    }
+   .MuiButton-contained{
+       box-shadow: none!important;
+   }
+  
+}
+.switch_btn{
+    display: flex;
+    margin-bottom: 15px;
+}
+.switch{
+    margin-left: auto;
+}
+.preview{
+    border-radius: 25px;
+    border: 1px solid grey;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50%;
+    height: 350px;
+    place-items: center;
+    p{
+        font-size: 14px!important;
+        color: grey;
+    }
+}
+.img_box{
+    border-radius: 25px;
+    border: 1px solid grey;
+    text-align: center;
+    padding-top: 10px;
+    width: 120px; 
+    height: 120px;
+    p{
+        font-size: 16px;
+        font-weight: 600;
+    }
+}
+.flex_inputs{
+    display: flex;
+}
+.multicollect_content{
+    padding-top: 120px!important;
+}
+.content_pera{
+    p{
+        font-size: 18px;
+    }
+    h5{
+        font-size: 20px;
+        font-weight: 600;
+        padding: 10px 0;
+    }
+}
+.all_h6{
+    font-size: 16px!important;
+    font-weight: 600!important;
+    margin-bottom: 8px!important;
+    color: #000;
+}
+.formControl{
+    width: 20%;
+}
+.formInputControl{
+    width: 75%;
+    margin:0 10px 0 0!important;
+}
+.collection_box{
+    margin: 20px 0!important;
+}
+.text_feilds{
+    p{
+    margin: 25px 0!important;
+}
+}
+.input_width{
+    width: 100%!important;
+}
+.icon{
+    text-align: right;
+}
+.MuiFormControl-root{
+    margin-right: 5px!important;
+}
+.MuiSwitch-colorPrimary.Mui-checked{
+    color: #E3B002!important;
+}
+.MuiSwitch-colorPrimary.Mui-checked + .MuiSwitch-track {
+    background-color: #e4c465!important;
+}
+.MuiTypography-root{
+    font-size: 16px;
+}
+.propeties_input{
+    width: 49%;
+}
+.propetiesInput{
+    margin: 20px 0;
+}

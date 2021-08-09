@@ -1,0 +1,57 @@
+.nav_bar{
+    background-color: #000!important;
+    position: fixed!important;
+    padding: 10px!important;
+}
+.MuiAppBar-colorPrimary{
+  background-color: #000000!important;
+  z-index: 999!important;
+}
+.MuiInputBase-input{
+  background-color: #fff!important;
+}
+.menuslist{
+    color: #fff;
+  }
+  .MuiButton-outlinedPrimary {
+    color: #E3B002!important;
+    border: 1px solid #E3B002!important;
+    border-radius: 25px!important;
+    margin-left: 10px!important;
+    padding: 0px 30px!important;
+}
+.roundedborder{
+  input{
+  border-radius: 25px!important;
+  padding: 10px;
+  margin: 0 10px;
+}
+}
+.logotext{
+  color: #fff;
+  font-size: 20px!important;
+  font-weight: 800!important;
+}
+// .imgsize{height: 70px; width: 70px;}
+  @media (min-width: 992px){
+      .nav-link{
+        padding-right: 0.3rem; padding-left: .3rem;
+      }
+      .makeStyles-inputInput-7 {
+        width: 20ch;
+        border: 1px solid!important;
+        border-color: grey!important;
+        border-radius: 5px!important;
+      }
+ } 
+
+.language{
+  color: #fff;
+  padding-top: 8px;
+  p{
+    padding-left: 10px;
+  }
+}
+.menuslist{
+  padding: 5px 15px !important;
+}
